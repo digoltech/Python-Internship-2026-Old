@@ -53,6 +53,8 @@ Computers cannot understand human-readable code directly; they only understand b
 **Visual Studio Code (VS Code)** is a free, powerful, and lightweight Source Code Editor developed by Microsoft.
 * **Why use it?** It supports syntax highlighting, auto-completions (IntelliSense), built-in terminal, and has an active ecosystem of extensions to make coding effortless.
 * **Important Extensions**: Make sure to install the **Python** extension by Microsoft to enable running and debugging Python within VS Code.
+<img width="292" height="504" alt="image" src="https://github.com/user-attachments/assets/f328ec36-2d9e-4c12-9fd9-e94a24844beb" />
+
 
 ---
 
@@ -60,6 +62,8 @@ Computers cannot understand human-readable code directly; they only understand b
 * **Git**: A software tool installed on your computer. It is a **Version Control System (VCS)** that keeps track of the history of changes you make to your files. If you break your code, Git lets you roll back to a working version.
 * **GitHub**: A cloud-based website where developers host their Git repositories. It lets you share your code, collaborate with teams, and build a portfolio.
 * **Analogical representation**: Think of **Git** as the camera taking snapshots of your project, and **GitHub** as the Instagram where you upload those snapshots to share with the world.
+* **Create a repo**: Create a repo for daily task management.
+<img width="837" height="223" alt="image" src="https://github.com/user-attachments/assets/2ca39bcc-04c3-4298-815c-e49354aae7ce" />
 
 ---
 
@@ -110,4 +114,4 @@ Let's apply what you learned! Navigate to the [tasks/](./tasks/) folder to compl
 * [Task 2: First Programs](./tasks/task2_first_programs.py)
 * [Task 3: Personal Info Program](./tasks/task3_personal_info.py)
 * [Task 4: Debugging](./tasks/task4_debugging.py)
-* [Task 5: Pattern Printing](./tasks/task5_pattern.py)
+* [Task 5: Pattern Printing](./tasks/task5_pattern.py) 
